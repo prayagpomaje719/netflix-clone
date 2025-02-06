@@ -26,6 +26,14 @@
 
 ![Imgur](https://i.imgur.com/j6UrnRm.png)
 
+# Argo CD
+
+![Imgur](https://i.imgur.com/nx2erbM.png)
+
+# Post Build Process - Mail --> Trivy File Scan , Trivy Image Scan , Build Log
+
+![Imgur](https://i.imgur.com/I4eVxI5.png)
+
 # Application Output 
 
 ![Imgur](https://i.imgur.com/fcAPBJW.png)
